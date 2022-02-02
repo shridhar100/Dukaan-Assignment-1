@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Dukaan Assignment</string>
+    <string name="app_title">Mano Super Market</string>
+    <string name="card_heading">Share More to Earn More</string>
+    <string name="card_desc">Share your own web store\'s link on Social Media to attract more customers daily.</string>
+    <string name="hyperLink"><u>mydukaan.io/mano</u></string>
+    <string name="domain">Get your own custom domain</string>
+    <string name="todo">TODO</string>
 </resources>
